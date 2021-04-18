@@ -23,7 +23,7 @@ Part 2: In this part of the project, we are building upon the pre-processed (ano
 
 We are using the IMDB datasets as a proxy and building a sentiment analyzer.
 
-![image](https://user-images.githubusercontent.com/33648410/115083382-3d623100-9ed5-11eb-8a9a-f43c8efb7394.png)
+![Screen Shot 2021-04-18 at 4 24 11 AM](https://user-images.githubusercontent.com/56357740/115139068-f4f26280-9ffd-11eb-970f-e09b72f38424.png)
 
 ## Task performed
 
