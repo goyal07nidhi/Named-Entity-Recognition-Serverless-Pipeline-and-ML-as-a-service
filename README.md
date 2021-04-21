@@ -1,4 +1,4 @@
-# CSYE7245 - Assignment_4: Named-Entity-Recognition Serverless Pipeline and ML-as-a-service
+# CSYE7245 - Assignment_4: Named-Entity-Recognition Serverless Pipeline and Sentiment Analysis-as-a-service
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
